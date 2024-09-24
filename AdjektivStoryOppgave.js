@@ -34,6 +34,7 @@ app.innerHTML = /*HTML*/ `
 
 //Controller
 function changeTxt(value){
+    console.log('textOne: '+value)
 textOne = value
 UpdateView();
 }
