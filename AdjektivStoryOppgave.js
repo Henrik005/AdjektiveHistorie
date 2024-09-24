@@ -32,11 +32,6 @@ app.innerHTML = /*HTML*/ `
 
 
 
-
-
-
-
-
 //Controller
 function changeTxt(value){
 textOne = value
