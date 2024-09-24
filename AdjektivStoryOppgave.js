@@ -36,7 +36,7 @@ app.innerHTML = /*HTML*/ `
 function changeTxt(value){
     console.log('textOne: '+value)
 textOne = value
-UpdateView();
+updateView();
 }
 function changeTxt2(value){
 textTwo = value;
